@@ -1,0 +1,17 @@
+.app {
+    text-align: center;
+}
+
+.h2 {
+    margin: 1rem;
+}
+
+.teams{
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+}
+
+.button {
+    padding: 0.6rem 0.8rem;
+}
